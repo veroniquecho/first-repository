@@ -1,13 +1,9 @@
 # first-repository
 
-# GitHub과 Git의 차이점
+# 깜짝 퀴즈
 
-## 1. Git이란
+**마크다운(Markdown)**은 일반 텍스트 기반의 경량 마크업 언어다. 일반 텍스트로 서식이 있는 문서를 작성하는 데 사용되며, 일반 마크업 언어에 비해 문법이 쉽고 간단한 것이 특징이다. (출처: [위키피디아](https://www.wikipedia.org/))
 
-**Git**이란 
-소스 코드 기록을 관리하고 추적할 수 있는 버전 관리 시스템
-
-**GitHub**란
-Git Repository를 관리할 수 있는 클라우드 기반 서비스
-
-
+- [마크다운 공식 사이트](https://daringfireball.net/projects/markdown/)
+- [GitHub](https://github.com/)
+- [아이펠](https://aiffel.io/)
