@@ -1,8 +1,8 @@
 # first-repository
 
-#GitHub과 Git의 차이점
+# GitHub과 Git의 차이점
 
-##1. Git이란
+## 1. Git이란
 
 **Git**이란 
 소스 코드 기록을 관리하고 추적할 수 있는 버전 관리 시스템
